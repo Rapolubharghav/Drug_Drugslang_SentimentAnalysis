@@ -21,7 +21,7 @@ Note that some of these packages may have additional dependencies, which may nee
 | [Matplotlib](https://matplotlib.org/ ) |3.5.1 
 | [Seaborn](https://seaborn.pydata.org/)| 0.11.2
 | [SciPy](https://www.scipy.org/) | 1.7.3
-| [Tabulate](https://pypi.org/project/tabulate/)0.8.9| 
+| [Tabulate](https://pypi.org/project/tabulate/)|0.8.9| 
 | [Tqdm](https://pypi.org/project/tqdm/)| 4.62.3
 | [NLTK](https://www.nltk.org/)| 3.6.5
 | For smooth running GPU is advised preferrably NVIDIA GPUS 
