@@ -27,7 +27,6 @@ Note that some of these packages may have additional dependencies, which may nee
 | For smooth running GPU is advised preferrably NVIDIA GPUS 
 
 ## How to use this repository
-
 1. [Download and Install Jupyter Notebook](https://jupyter.org/.)
 
 2. In your GitHub repository, click Clone or download to copy the URL for your GitHub repository.
@@ -36,22 +35,22 @@ Note that some of these packages may have additional dependencies, which may nee
 
 4. In the JupyterLab folder File Browser, select the folder where you want to clone the GitHub repository. For example, the home folder.
 
-5.Click the Git clone button.
+5. Click the Git clone button.
 
-6.Clone repository button.
+6. Clone repository button.
 
-7.In the Clone a repo dialog, paste the URL for your GitHub repository that you copied earlier.
+7. In the Clone a repo dialog, paste the URL for your GitHub repository that you copied earlier.
 
-8.Paste repository URL and clone.
+8. Paste repository URL and clone.
 
-9.Click Clone.
+9. Click Clone.
 
 ## Running the program
-1)This should open a new tab in your web browser with the Jupyter Notebook interface. Navigate to the cloned repository in the file browser and open the Jupyter Notebook file (usually with a .ipynb extension).
+1) This should open a new tab in your web browser with the Jupyter Notebook interface. Navigate to the cloned repository in the file browser and open the Jupyter Notebook file (usually with a .ipynb extension).
 
-2)Once the Notebook file is open, you should see the code and documentation for the sentiment analysis project. You can run the code cells by clicking on them and pressing the "Shift" and "Enter" keys at the same time. This will execute the code and display the output in the cell below.
+2) Once the Notebook file is open, you should see the code and documentation for the sentiment analysis project. You can run the code cells by clicking on them and pressing the "Shift" and "Enter" keys at the same time. This will execute the code and display the output in the cell below.
 
-3)Follow the instructions provided in the Notebook to perform sentiment analysis on a dataset of your choice.
+3) Follow the instructions provided in the Notebook to perform sentiment analysis on a dataset of your choice.
 
 4) Test with your desired input : 
 
@@ -59,7 +58,7 @@ Note that some of these packages may have additional dependencies, which may nee
 ![image](https://user-images.githubusercontent.com/84602565/222916823-3387193a-e05c-4cbf-a13c-b4bf697338fc.png)
 
 
-Get output based on the sentiment positive or negative statement
+Get output based on the sentiment (positive or negative)
 
 
 ![image](https://user-images.githubusercontent.com/84602565/222916957-ee48a238-bca8-45b4-bbcc-c5e8a3324cb0.png)
