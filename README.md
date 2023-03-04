@@ -1,11 +1,9 @@
 # Drug_DrugSlang_SentimentAnalysis
 Drug / Drug Slang Sentiment Analysis using BERT Base Model (uncased)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A tutorial for setting up illegal drugslang sentiment analysis using BERT:
 
-
-This tutorial provides positive and negative based binary sentiment analysis as output based on the sentiment of the text provided.The primary objective of such a project could be to analyze and understand the sentiment of conversations that involve drug slang. By identifying the overall sentiment of these conversations, researchers can gain insights into the attitudes and emotions associated with drug use.
+This tutorial provides positive and negative based binary sentiment analysis as output based on the sentiment of the text provided. The primary objective of such a project could be to analyze and understand the sentiment of conversations that involve drug slang. By identifying the overall sentiment of these conversations, researchers can gain insights into the attitudes and emotions associated with drug use.
 
 A tutorial for setting up illegal drugslang sentiment analysis using BERT:
 ## Setup
@@ -48,11 +46,13 @@ Note that some of these packages may have additional dependencies, which may nee
 ## Running the program
 1) This should open a new tab in your web browser with the Jupyter Notebook interface. Navigate to the cloned repository in the file browser and open the Jupyter Notebook file (usually with a .ipynb extension).
 
-2) Once the Notebook file is open, you should see the code and documentation for the sentiment analysis project. You can run the code cells by clicking on them and pressing the "Shift" and "Enter" keys at the same time. This will execute the code and display the output in the cell below.
+2) Make sure the dataset is available in the same folder as the .ipynb file.
 
-3) Follow the instructions provided in the Notebook to perform sentiment analysis on a dataset of your choice.
+3) Once the Notebook file is open, you should see the code and documentation for the sentiment analysis project. You can run the code cells by clicking on them and pressing the "Shift" and "Enter" keys at the same time. This will execute the code and display the output in the cell below.
 
-4) Test with your desired input : 
+4) Follow the instructions provided in the Notebook to perform sentiment analysis on a dataset of your choice.
+
+5) Test with your desired input : 
 
 
 ![image](https://user-images.githubusercontent.com/84602565/222916823-3387193a-e05c-4cbf-a13c-b4bf697338fc.png)
@@ -67,9 +67,9 @@ Get output based on the sentiment (positive or negative)
  
 ## Questions and Remarks
 
-If you have any question or remark regarding this tutorial, feel free to open an issue.
+If you have any questions or remarks regarding this tutorial, feel free to open an issue.
 
 
 ## Keywords
 
-Tutorial, illegal drugs,Drug Slang, sentiment analysis, BERT,Pytorch,Tensorflow
+Tutorial, illegal drugs, Drug Slang, sentiment analysis, BERT, Pytorch, Tensorflow
