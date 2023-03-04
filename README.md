@@ -1,4 +1,4 @@
-# Drug_Drugslang_SentimentAnalysis
+# Drug_DrugSlang_SentimentAnalysis
 Drug / Drug Slang Sentiment Analysis using BERT Base Model (uncased)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -54,8 +54,14 @@ Note that some of these packages may have additional dependencies, which may nee
 3)Follow the instructions provided in the Notebook to perform sentiment analysis on a dataset of your choice.
 
 4) Test with your desired input : 
+
+
 ![image](https://user-images.githubusercontent.com/84602565/222916823-3387193a-e05c-4cbf-a13c-b4bf697338fc.png)
-Get output based on the sentiment
+
+
+Get output based on the sentiment positive or negative statement
+
+
 ![image](https://user-images.githubusercontent.com/84602565/222916957-ee48a238-bca8-45b4-bbcc-c5e8a3324cb0.png)
 
 
